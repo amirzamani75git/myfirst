@@ -2,7 +2,7 @@ des.txt
 *.txt
 amir/
 
-!work.txt
+work.txt
 
 
 # Created by https://www.gitignore.io/api/csharp,windows,visualstudio
